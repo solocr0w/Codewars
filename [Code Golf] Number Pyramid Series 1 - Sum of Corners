@@ -1,0 +1,1 @@
+sum_corners=lambda n:[n*n+2,n][n<2]
