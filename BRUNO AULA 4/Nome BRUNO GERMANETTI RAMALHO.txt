@@ -1,0 +1,17 @@
+Nome: BRUNO GERMANETTI RAMALHO
+RA: 10426491
+
+--- Resultados N=300 ---
+Sequencial: 5113.73 ms
+Threads: 2371.00 ms
+Distribuído: 2623.76 ms
+
+--- Resultados N=600 ---
+Sequencial: 46305.49 ms
+Threads: 21217.26 ms
+Distribuído: 21165.83 ms
+
+--- Resultados N=1000 ---
+Sequencial: 211016.95 ms
+Threads: 113516.64 ms
+Distribuído: 94870.64 ms
